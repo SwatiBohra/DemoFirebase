@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoFirebase</string>
+    <string name="roll_no">Roll No</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_course">Enter your Course</string>
+    <string name="enter_your_roll_no">Enter your Roll No</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_the_course">Enter the Course</string>
+    <string name="course_duration">Course Duration</string>
+    <string name="add_to_firebase">Add To FireBase</string>
+</resources>
